@@ -1,0 +1,73 @@
+li {
+  font-size: 40px;
+  color: #3d58a6;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  display: inline-block;
+  padding-right: 30px;
+  margin-right: 30px;
+  border: 10px solid red;
+  background: green;
+  width: 250px;
+}
+a {
+  color: #3d58a6;
+  text-decoration: none;
+}
+.active {
+  color: #ee4036;
+}
+ul {
+  list-style-type: none;
+}
+.internet-img{
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+}
+.content{
+  display: inline-block;
+  width: 65%;
+  margin-left: 5%;
+  vertical-align: middle;
+}
+
+.paragrap{
+  margin-top: 25px;
+  font-size: 12px;
+}
+.internet{
+  padding-top: 5%;
+  background-color: #fff;
+}
+.newtor-img{
+  width: 30%;
+  display: inline-block;
+  vertical-align: middle;
+}
+.newtrok-content{
+  display: inline-block;
+  vertical-align: middle;
+  width: 65%;
+  margin-right: 5%;
+  text-align: right;
+}
+.network{
+  padding-top: 5%;
+}
+
+
+
+.ragaca h1{
+  margin: 20px auto;
+}
+.ragaca img{
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+}
+.ragaca .paragrap-wrapper{
+  display: inline-block;
+  width: 70%;
+  vertical-align: top;
+  padding-left: 3%;
+}
